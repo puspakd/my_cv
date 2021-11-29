@@ -1,0 +1,402 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  
+}
+.Full{
+    background-color: #a6a6a6;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.main{
+    margin: 50px 0px;
+    height: 1300px;
+    box-shadow: 0px 2px 5px #3a3a3a;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: space-between;
+}
+.left{
+    width: 30%;
+    background-color: rgb(5, 12, 26);
+}
+.profile_img span img{
+    width: 70%;
+    margin: 30px 53px;
+    border-radius: 50%;
+}
+
+.My_identity{
+    text-align: center;
+}
+.My_identity h3{
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: #f0f0f0;
+}
+.My_identity h5{
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: #f0f0f0;
+}
+.line8{
+    display: block;
+    background-color: rgb(45, 129, 240);
+    width: 80%;
+    box-shadow: 0px 0px 2px rgb(45, 129, 240);;
+    height: 2px;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.Contact{
+    margin: 15px 30px;
+}
+.Contact h3{
+    font-size: 30px;
+    color: rgb(45, 129, 240);;
+}
+.Contact_dil p{
+    font-size: 26px;
+    margin-left: 20px;
+    margin-top: 10px;
+    color: #f0f0f0;
+}
+.Contact_dil p a{
+    text-decoration: none;
+    color: #f0f0f0;
+}
+.language{
+    margin: 15px 30px;
+}
+.language h3{
+    font-size: 30px;
+    color: rgb(45, 129, 240);;
+}
+.lan h4{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #f0f0f0;
+}
+.english{
+    margin-bottom: 30px;
+}
+.hindi{
+    margin-bottom: 30px;
+}
+.Bangali{
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+.e-a{
+    position: relative;
+    display: block;
+    background-color: rgb(45, 129, 240);;
+    width: 50%;
+    height: 10px;
+    margin-left: 22px;
+    border-radius: 25px;
+    box-shadow: 0px 0px 5px rgb(45, 129, 240);
+}
+.e-b{
+    position: absolute;
+    display: block;
+    background-color: rgba(0, 0, 0, 0);
+    width: 13%;
+    height: 18px;
+    border-radius: 15px;
+    border: 2px solid rgb(102, 168, 255);
+    top: 724px;
+    box-shadow: 0px 0px 3px rgb(102, 168, 255);
+    left: 414px;
+}
+.H-a{
+    position: relative;
+    display: block;
+    background-color: rgb(45, 129, 240);;
+    width: 60%;
+    height: 10px;
+    margin-left: 22px;
+    border-radius: 25px;
+    box-shadow: 0px 0px 5px rgb(45, 129, 240);
+}
+.H-b{
+    position: absolute;
+    display: block;
+    background-color: rgba(0, 0, 0, 0);
+    width: 13%;
+    height: 18px;
+    border-radius: 15px;
+    border: 2px solid rgb(102, 168, 255);
+    top: 799px;
+    left: 414px;
+    box-shadow: 0px 0px 3px rgb(102, 168, 255);
+}
+.b-a{
+    position: relative;
+    display: block;
+    
+    width: 78%;
+    height: 10px;
+    margin-left: 22px;
+    border-radius: 25px;
+    background-color: rgb(45, 129, 240);
+    box-shadow: 0px 0px 5px rgb(45, 129, 240);
+}
+.b-b{
+    position: absolute;
+    display: block;
+    
+    width: 13%;
+    height: 18px;
+    border-radius: 15px;
+  
+    top: 874px;
+    left: 414px;
+    border: 2px solid rgb(102, 168, 255);
+    box-shadow: 0px 0px 3px rgb(102, 168, 255);
+}
+
+
+
+
+
+
+.right{
+    width: 70%;
+}
+.profile{
+    margin: 50px 30px;
+}
+.profile h3{
+    font-size: 32px;
+    font-weight: 700;
+}
+.profile p{
+    font-size: 20px;
+    margin: 10px 25px;
+}
+.line1{
+    display: block;
+    background-color: black;
+    width: 17%;
+    height: 2px;
+    border-radius: 5px;
+    margin-top: -10px;
+}
+.line2{
+    display: block;
+    background-color: black;
+    width: 90%;
+    height: 2px;
+    border-radius: 5px;
+    margin: 0px 35px;
+}
+.Education{
+    margin: 50px 30px;
+}
+.Education h3{
+    font-size: 32px;
+    font-weight: 700;
+}
+.line3{
+    display: block;
+    background-color: black;
+    width: 23%;
+    height: 2px;
+    border-radius: 5px;
+    margin-top: -10px;
+}
+
+.contact_dil h5{
+    font-size: 22px;
+    font-weight: 800;
+}
+.contact_dil p{
+    font-size: 24px;
+    font-weight: 800;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+.secon{
+    margin: 15px 30px;
+}
+.line4{
+    display: block;
+    background-color: black;
+    width: 6%;
+    height: 2px;
+    border-radius: 5px;
+    margin-top: -5px;
+}
+.line5{
+    display: block;
+    background-color: black;
+    width: 5%;
+    height: 2px;
+    border-radius: 5px;
+    margin-top: -5px;
+}
+.line6{
+    display: block;
+    background-color: black;
+    width: 6%;
+    height: 2px;
+    border-radius: 5px;
+    margin-top: -5px;
+}
+.high{
+    margin: 15px 30px;
+}
+.college{
+    margin: 15px 30px;
+}
+.skill{
+    margin: 50px 30px;
+}
+.skill h3{
+    font-size: 32px;
+    font-weight: 700;
+}
+.line7{
+    display: block;
+    background-color: black;
+    width: 42%;
+    height: 2px;
+    border-radius: 5px;
+    margin-top: -5px;
+}
+.html{
+    margin: 20px 30px;
+}
+.html h4{
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+.h-a{
+    position: relative;
+    display: block;
+    background-color: rgb(5, 12, 26);
+    
+    width: 65%;
+    height: 10px;
+    margin-left: 11px;
+    margin-top: 1px;
+    border-radius: 25px;
+}
+.h-b{
+    position: absolute;
+    display: block;
+    
+    width: 30%;
+    height: 18px;
+    border-radius: 15px;
+    border: 2px solid rgb(5, 12, 26);
+    
+    top: 934px;
+    left: 785px;
+}
+.css{
+    margin: 20px 30px;
+}
+.css h4{
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+.c-a{
+    position: relative;
+    display: block;
+    background-color: rgb(5, 12, 26);
+    
+    width: 60%;
+    height: 10px;
+    margin-left: 11px;
+    margin-top: 1px;
+    border-radius: 25px;
+}
+.c-b{
+    position: absolute;
+    display: block;
+    
+    width: 30%;
+    height: 18px;
+    border-radius: 15px;
+    border: 2px solid rgb(5, 12, 26);
+    
+    top: 992px;
+    left: 785px;
+}
+.Java_Script{
+    margin: 20px 30px;
+}
+.Java_Script h4{
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+.j-a{
+    position: relative;
+    display: block;
+    background-color: rgb(5, 12, 26);
+    
+    width: 50%;
+    height: 10px;
+    margin-left: 11px;
+    margin-top: 1px;
+    border-radius: 25px;
+}
+.j-b{
+    position: absolute;
+    display: block;
+    
+    width: 30%;
+    height: 18px;
+    border-radius: 15px;
+    border: 2px solid rgb(5, 12, 26);
+    
+    top: 1050px;
+    left: 785px;
+}
+.React{
+    margin: 20px 30px;
+}
+.React h4{
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+.r-a{
+    position: relative;
+    display: block;
+    background-color: rgb(5, 12, 26);
+    
+    width: 45%;
+    height: 10px;
+    margin-left: 11px;
+    margin-top: 1px;
+    border-radius: 25px;
+}
+.r-b{
+    position: absolute;
+    display: block;
+    
+    width: 30%;
+    height: 18px;
+    border-radius: 15px;
+    border: 2px solid rgb(5, 12, 26);
+    
+    top: 1108px;
+    left: 785px;
+}
+
